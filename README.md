@@ -1,5 +1,5 @@
 # Exercício: Eight Queens Problem
-NOME: [digite seu nome]
+NOME: Edson Fagner da Silva Cristovam
   
 ## O problema das 8 rainhas
 
